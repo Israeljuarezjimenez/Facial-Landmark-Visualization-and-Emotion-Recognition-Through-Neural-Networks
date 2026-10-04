@@ -1,0 +1,38 @@
+# Entorno local
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+.env
+hasting.py
+
+# Datos pesados / generados
+Data/
+output_dir/
+output_images/
+Emotion/
+*.pth
+*.dat
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.npy
+*.npz
+*.pickle
+*.pkl
+*.joblib
+*.zip
+*.tar.gz
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.webp
+rutas_emociones.txt
+
+# Otros artefactos
+*.log
+*.tmp
